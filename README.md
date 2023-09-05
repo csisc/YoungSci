@@ -6,3 +6,4 @@ This ranking sorts Tunisian scientists by their Google Scholar h-index. It is re
 
 ## Ranking
 **Edition 1 (August 2023)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Aug-2023.xlsx)
+**Edition 1.1 (September 2023)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Sep-2023.xlsx)
