@@ -1,5 +1,6 @@
 # YoungSci
 An h-index ranking for Tunisian scientists aged 40 or less based on Google Scholar
+*This Ranking is kept for archival purposes. It ceased working on 31 December 2024.*
 
 **To cite the Ranking:** Turki, H. (2023). *YoungSci: An h-index ranking for Tunisian scientists aged 40 or less based on Google Scholar*. Zenodo. doi:10.5281/zenodo.13786054.
 
