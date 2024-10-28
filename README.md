@@ -21,7 +21,8 @@ Furthermore, The distinction between local Tunisian scientists and those working
 Besides, in Tunisia, the number of scientists varies significantly based on birth year, with some cohorts (e.g., 1985 and 1988) having a higher representation, while others (e.g., 1989) are underrepresented. This fluctuation is likely due to external factors such as political, economic, or educational changes that influenced access to academic opportunities. These trends suggest that the academic and research environment in Tunisia has been inconsistent across generations, which is not the case in other countries, where the number of scientists tends to grow steadily due to more stable, long-term support for research and education (Nane, et al., 2017).
 
 ## Ranking
--  <span style="color:red">NEW</span> **Edition 2.1 (August 2024)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Aug-2024.xlsx)
+-  <span style="color:red">FINAL</span> **Edition 2.2 (October 2024)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Oct-2024.xlsx)
+-  **Edition 2.1 (August 2024)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Aug-2024.xlsx)
 -  **Edition 2.0 (April 2024)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Apr-2024.xlsx)
 -  **Edition 1.2 (December 2023)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Dec-2023.xlsx)
 -  **Edition 1.1 (September 2023)**: [Excel](https://github.com/csisc/YoungSci/raw/main/ranking_Sep-2023.xlsx)
